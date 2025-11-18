@@ -2,10 +2,10 @@
 function Home(){
   return(
     <div>
-      <h1>Te amo muito meu Amor</h1> 
-      <h2>Você e a pessoa mais linda do mundo!</h2>
+      <h1>Eu AMO JESUS CRISTO</h1> 
+      <h2>Nosso criador e salvador, nele confio</h2>
 
-      <h3>Ja estou com muita saudade de vc minha princesinha</h3>
+      <h3></h3>
      
     </div>
   )
