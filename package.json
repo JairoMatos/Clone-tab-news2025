@@ -8,7 +8,7 @@
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write ."
   },
-  "author": "",
+  "author": "jairo",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
